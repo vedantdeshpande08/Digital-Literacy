@@ -27,12 +27,12 @@ Wrote professional emails and created a checklist for responsible social media u
 Studied UPI fraud, created a case study, and prepared a prevention checklist for online safety.
 
 ## Project Structure
-task-1-presentation/
-task-2-portfolio/
-task-3-platforms/
-task-4-email-etiquette/
-task-5-cybercrime/
-report/
+### task-1-presentation/
+### task-2-portfolio/
+### task-3-platforms/
+### task-4-email-etiquette/
+### task-5-cybercrime/
+### report/
 
 ## Conclusion
 This project enhanced my knowledge of digital tools, professional communication, and online safety. It helped me build practical skills that are useful for academics and future career growth.
